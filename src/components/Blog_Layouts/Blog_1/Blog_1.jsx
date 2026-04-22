@@ -60,6 +60,7 @@ const Blog_1 = () => {
       vote: allPartyVote?.ncp_vote || 0,
     },
   ];
+  // ok 
 
   useEffect(() => {
     const fetchUserData = async () => {
